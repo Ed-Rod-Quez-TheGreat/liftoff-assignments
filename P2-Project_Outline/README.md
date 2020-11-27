@@ -16,19 +16,19 @@ It’s a necessity for life, and as such, most people develop some basic cooking
 The McDev Cooking Association is proud to present: [Insert witty App name here]; a straightforward and practical tool designed to provide ideas, inspiration, and easy-to-follow recipes for users who have the materials, but not necessarily the know-how, of what to make for their next meal. Simply provide the app with a list of ingredients you have on hand, and the app will search our database of recipes for potential matches for your next meal, complete with step-by-step instructions! 
 
 ### Features
-User Login [basics] 
+User Login [MVP] 
 -A basic function to allow users a degree of personalization when using other features of our app.
 
-CRUD functionality [basics] 
+CRUD functionality [MVP] 
 -Standard app operations to allow the user to provide data to the app to get an expected return datum.
 
-Ingredients input for returned recipes [mvp] 
+Ingredients input for returned recipes [MVP] 
 -The heart and soul of our app, the user provides our program with available foodstuffs, and we return to the user, recipe options.
 
 Filter results (by prep/cook times, extra ingredients, ect) 
 -A feature that allows the user to fine tune their returned results, for better versatility to the user
 
-Tag system for recipes [mvp] 
+Tag system for recipes  
 -Some way of tagging the individual ingredients so all recipes on file can be uniformly parsed and handled
 
 User uploadable recipes  
