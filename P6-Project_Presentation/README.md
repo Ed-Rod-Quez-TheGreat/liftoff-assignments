@@ -8,5 +8,4 @@ We want to you to create a set of presentation slides summarizing your project.
 
 ### Presentation
 Upload a .PDF of your presentation here:
-! [Build-A-Bite Team Presentation](Build-A-Bite Team Presentation.pdf)
-
+[Build-A-Bite](./Build-A-Bite Team Presentation.pdf)
